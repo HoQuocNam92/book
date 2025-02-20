@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "title": "Tâm lý học về tiền",
+      "image": "/Book_Store/images/book-01.jpg",
+      "description": "Nghiên cứu cách mà tâm lý, cảm xúc và hành vi của con người ảnh hưởng đến cách họ kiếm, chi tiêu, tiết kiệm."
+
+    },
+    {
+      "id": 2,
+      "title": "Thấu hiểu tiếp thị",
+      "image": "/Book_Store/images/book-02.jpg",
+      "description": "Một yếu tố quan trọng trong việc xây dựng và phát triển thương hiệu. Đây là quá trình tìm hiểu sâu sắc về thị trường."
+      
+    },
+    {
+      "id": 3,
+      "title": "Từ tốt đến vĩ đại",
+      "image": "/Book_Store/images/book-03.jpg",
+      "description": "Cuốn sách nổi tiếng của Jim Collins, khám phá lý do tại sao một số công ty thành công vượt bậc  "
+      
+    },
+    {
+        "id": 4,
+        "title": "Nếu biết trăm năm là hữu hạn",
+        "image": "/Book_Store/images/book-04.jpg",
+        "description": "Mở đầu cho một suy tư sâu sắc về thời gian và cuộc sống. Đoạn th thường gợi ý đến những cảm xúc ."
+        
+      },
+      {
+        "id": 5,
+        "title": "Nghĩ giàu làm giàu",
+        "image": "/Book_Store/images/book-05.jpg",
+        "description": "Một cuốn sách nổi tiếng của tác giả Napoleon Hill, xuất bản lần đầu vào năm 1937."
+        
+      },
+      {
+        "id": 6,
+        "title": "7 thói quen để thành đạt",
+        "image": "/Book_Store/images/book-06.jpg",
+        "description": "Cuốn sách nổi tiếng của Stephen R. Covey, cung cấp các nguyên tắc cơ bản để phát triển cá nhân."
+        
+      }
+  ]
+  
