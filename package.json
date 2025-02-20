@@ -3,8 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://HoQuocNam92.github.io/Book_Store",
-  "scripts": {
+  "homepage": "https://HoQuocNam92.github.io/book",
+  "scripts": { 
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
